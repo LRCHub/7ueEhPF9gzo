@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たぶん、夢",
+  "base_artist": "佐藤乃子",
+  "createdAt": "2026-03-12T05:40:03.007832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶん、夢 (feat. 歌愛ユキ)",
+      "artist": "佐藤乃子",
+      "has_synced": false,
+      "path": "select/pl_01_たぶん、夢_(feat._歌愛ユキ)_佐藤乃子.txt"
+    }
+  ]
+}
